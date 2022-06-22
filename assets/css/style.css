@@ -582,6 +582,10 @@ video { min-width: 100%; }
 	.home-slider button.slick-arrow{
 		display: none!important;
 	}
+
+	button.slick-next.slick-arrow, button.slick-prev.slick-arrow{
+		display: none !important;
+	}
 }
 
 /*
